@@ -1,4 +1,5 @@
 *keep reading direction paged style "right to left" for All
+
 *install the new mangaup and mangamillion ripper
 
 Visit My Website - https://ozler365.github.io/ozler-s-works-info/#/repositories
