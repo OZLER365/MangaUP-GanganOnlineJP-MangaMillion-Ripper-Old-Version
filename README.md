@@ -1,6 +1,6 @@
 *keep reading direction paged style "right to left" for All
 
-*install the new mangaup and mangamillion ripper
+*install the new mangaup and mangamillion ripper - https://greasyfork.org/en/scripts/594343-manga-plus-bookwalker-manga-up-manga-million-gangan-online-zebcrack-ripper
 
 Visit My Website - https://ozler365.github.io/ozler-s-works-info/#/repositories
 
